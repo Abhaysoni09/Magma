@@ -1,3 +1,4 @@
 # Magma
 This is my first git repository.
-Author - Abhay Soni
+<br>
+Author - <li> Abhay Soni</li>
